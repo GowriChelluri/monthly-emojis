@@ -1,0 +1,8 @@
+.days-container {
+  display: flex;
+}
+.days {
+  color: white;
+  padding: 20px;
+  list-style-type: none;
+}
